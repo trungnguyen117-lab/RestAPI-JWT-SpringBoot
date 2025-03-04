@@ -12,7 +12,7 @@
 ## Test `GET` endpoint user
 ![userget_endpoint.png](userget_endpoint.png)
 
-## Đăng ký bằng tài khoản admin
+## Đăng nhập bằng tài khoản admin
 ![loginas_admin.png](loginas_admin.png)
 ## Test `POST` endpoint admin
 ![admin_post.png](admin_post.png)
